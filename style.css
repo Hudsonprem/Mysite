@@ -1,0 +1,68 @@
+body{
+  background-image: url('Images/scenary.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+}
+.card1{
+border-radius: 50px 50px;
+border: 8px double black;
+text-align: center;
+margin: 10% 50%;
+opacity: .8;
+}
+.card-img-top{
+  border-radius: 50px 50px 0 0;
+}
+
+.profile{
+  border-radius: 0 0 0 20px;
+  border: 2px solid white;
+
+}
+
+.newnavs
+{
+background-image: url('Images/navs3.jpg');
+background-repeat: no-repeat;
+background-attachment:fixed;
+background-size: 100% 70%;
+border-radius: 0 0 20px 20px;
+margin: 0 auto 10% auto;
+}
+
+.text{
+  margin: 20% auto 20% auto;
+  padding: 10% 5% 10% 5%;
+  text-align: justify;
+  background-color: #252020;
+  opacity: .6;
+  border-radius: 50px;
+  color: white;
+}
+.image{
+  padding: 2%;
+  margin: 1% 1% 1% 1%;
+}
+
+.title{
+  padding: 0 2% 2% 0;
+  margin: 10% auto 5% auto;
+  border-radius: 50px;
+}
+
+
+.Frameworks{
+  padding-bottom: 1%;
+  margin: 10% auto 10% auto;
+  border-radius: 50px;
+}
+
+.Framecontent{
+  border-radius: 0 0 50px 50px;
+}
+
+.titled{
+  border-radius: 75px 75px 10px 10px;
+}
